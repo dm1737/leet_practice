@@ -9,7 +9,7 @@ class Solution:
         if length % 2 == 0:
             middle = length//2
             median = (nums[middle] + nums[(middle-1)])/2
-        else: 
+        else:
             target = ((length + 1)//2)-1
             median = nums[target]
 
