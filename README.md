@@ -1,1 +1,2 @@
 # leet_practice
+This repo is for practicing algorithm style problems from Leet Code. This is not production code, nor should it be considered as such. The formatting is intended to match Leet Code's testing system, and is not necessarily the desired formatting for Python code.
